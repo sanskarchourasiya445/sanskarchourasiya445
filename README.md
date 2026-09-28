@@ -60,7 +60,6 @@ I'm particularly interested in **modern web development, backend engineering, LL
 ## Currently Learning
 
 * Advanced Data Structures & Algorithms
-* System Design
 * Advanced LLM Engineering
 * Agentic AI architectures
 * Production-oriented full-stack development
@@ -75,17 +74,6 @@ I'm particularly interested in **modern web development, backend engineering, LL
     alt="GitHub Streak"
   />
 </a>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
 
 ---
 
