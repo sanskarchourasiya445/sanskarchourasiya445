@@ -36,7 +36,7 @@ I'm particularly interested in **modern web development, backend engineering, LL
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="Backend and Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres" alt="Backend and Databases" />
 </p>
 
 ### AI / GenAI
